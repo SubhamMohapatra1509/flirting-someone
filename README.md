@@ -1,19 +1,14 @@
 # 💖 Flirting Someone
 
-A cute, cheeky, and lighthearted web project made to bring smiles, blushes, and maybe… a little romance. 
-
+A cute, cheeky, and lighthearted web project made to bring smiles, blushes, and maybe… a little romance.  
 Perfect for playful interactions or surprising someone special. ✨
 
 ---
 
 ## 🌟 Features
 - **Smooth & Stylish UI** – because flirting should always look good 😉
-- 
 - **Playful Messages** – fun, teasing, and sweet
-- 
 - **Responsive Design** – works on desktop and mobile
-
-- 
 - **Customizable** – make it personal for *your someone*
 
 ---
